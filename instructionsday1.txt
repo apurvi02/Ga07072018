@@ -1,0 +1,7 @@
+git init
+hidden items
+connect to central repositry
+https://github.com/apurvi02/Ga07072018.git
+
+git remote add origin "paste link"
+
